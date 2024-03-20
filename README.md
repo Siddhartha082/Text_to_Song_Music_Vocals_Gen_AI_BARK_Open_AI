@@ -13,7 +13,7 @@ song with both vocals and music. What You'll Learn:
 3. Setting up a FastAPI backend to manage the app's functionalities.
 4. Creating a user-friendly web interface for easy text-to-song conversions.
 5. Tips and best practices for integrating AI models into your applications.
-6.text-to-song generation app that can transform any text into a melodious song complete with vocals and music.
+6. text-to-song generation app that can transform any text into a melodious song complete with vocals and music.
 
 # Go to Replicate.com  Login into your Github Account
 

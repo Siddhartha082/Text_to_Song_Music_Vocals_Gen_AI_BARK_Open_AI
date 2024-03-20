@@ -1,0 +1,9 @@
+fastapi
+jinja2
+aiofiles
+python-multipart 
+python-dotenv
+requests
+replicate
+uvicorn
+openai
